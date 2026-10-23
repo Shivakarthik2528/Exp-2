@@ -1,3 +1,3 @@
-Name:Sudeep
-USN :2026LCS012
-Subject :CDD
+Name:sudeep
+usn:2026lcs012
+sub:cdd
